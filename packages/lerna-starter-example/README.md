@@ -14,7 +14,7 @@ This writes the story for the base Storybook. This is where you can test and try
 
 `theme.js`
 
-This just defines a simple them for the purpose of testing the `<ThemeProvider>` out on the styled button.
+This just defines a simple theme for the purpose of testing the `<ThemeProvider>` out on the styled button.
 
 Then on to the actual package files found inside the `src` directory:
 
